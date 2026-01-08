@@ -11,8 +11,8 @@ int main() //The main function where program execution begins.
 
     // Print name/age using printf statement
     
-    char name[20] = "Chhavi Sonkusre";     // Declare a char variable to hold name
-    int age = 20;     // Declare an integer variable to hold an age
+    char name[20] = "Ankit Kumar";     // Declare a char variable to hold name
+    int age = 19;     // Declare an integer variable to hold an age
 
     printf("My name is %s and I am %d years old.\n", name, age); 
     // %s is a format specifier for string
@@ -20,5 +20,6 @@ int main() //The main function where program execution begins.
 
     return 0; //Ends the function, indicating successful execution.
 }
+
 
 
